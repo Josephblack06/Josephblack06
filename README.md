@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Josephblack06/Josephblack06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Josephblack06/Josephblack06** is a block chain& ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crytpcurrency and also a game developer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
